@@ -1,0 +1,7 @@
+package com.springcore.springcore;
+
+public class Address {
+	private String city;
+	private String state;
+	private int pincode;
+}
